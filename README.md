@@ -1,5 +1,7 @@
 # Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
+# NAME:PRASANNA I
+# REGNO:212223220079
 
 # AIM:
 To execute Windows basic commands and batch scripting
